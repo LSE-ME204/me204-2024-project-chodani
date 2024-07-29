@@ -16,7 +16,7 @@ The data was collected from the Waitrose online store over six months, covering 
 
 ## Results
 
-![Fig. 1 -- Distribution of prices for bread products](./figures/revenue_audience.html)
+![Fig. 1 -- Revenue vs Audience Score](./figures/revenue_audience.png)
 
 ### Price Comparison
 
