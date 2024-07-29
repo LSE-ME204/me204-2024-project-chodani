@@ -23,7 +23,7 @@ The data was collected from the Rotten Tomatoe top 300 movies list and within ea
 
 ![Fig. 3 -- Audience vs Critics Score](./figures/audience_critics.png)
 
-![Fig. 2 -- Audience vs Critics Scores Across Genres](./figures/diff_mean_genre.png)
+![Fig. 4 -- Audience vs Critics Scores Across Genres](./figures/diff_mean_genre.png)
 
 - **Revenue and Audience Score**: There seems to be a positive relationship between a movie's revenue and audience score, and this makes sense, as better performing movies are a result of audience members appreciting them.
 - **Revenue and Critics Score**: The relationship between revenue and critics score is not quite obvious. This indicates that not only may critics score differ from the audience, but also that their opinions don't correlate with a movie's financial success.
@@ -32,22 +32,18 @@ The data was collected from the Rotten Tomatoe top 300 movies list and within ea
 
 ### Other Trends
 
-### Price Comparison
+![Fig. 5 -- Rank vs Revenue](./figures/rank_revenue.png)
 
-- **White Bread**: The average price was found to be £1.20, with minimal variation.
-- **Wholemeal Bread**: Slightly higher, averaging at £1.30.
-- **Sourdough Bread**: The most expensive, with an average price of £2.50.
-- **Gluten-Free Options**: Varied significantly in price, from £1.80 to £3.00, depending on the brand and ingredients.
+![Fig. 6 -- Rank vs Runtime](./figures/rank_runtime.png)
 
-### Price Trends
+![Fig. 7 -- Release Data vs Rank](./figures/date_rank.png)
 
-- A slight increase in the price of wholemeal and sourdough bread was observed towards the end of the period, possibly due to rising production costs.
-- White bread prices remained stable throughout the study period.
-- Promotional activities led to temporary price reductions, especially for gluten-free options.
+![Fig. 8 -- Runtime Distribution Across Genres](./figures/runtime_distribution_genre.png)
 
-### Seasonal Impact
-
-- Seasonal variations had a noticeable impact on the price of bread, with prices generally higher during the holiday season, likely due to increased demand.
+- **one**
+- **two**
+- **three**
+- **four**
 
 ## Discussion
 
