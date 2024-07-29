@@ -1,4 +1,4 @@
-# Bread Price Analysis at Waitrose Supermarket
+# Rotten Tomatoes Top 300 Movies Analysis
 
 Welcome to my analysis of bread prices at Waitrose Supermarket. This study aims to provide insights into the pricing trends, variations, and factors influencing the cost of bread at one of the UK's leading supermarkets. By examining the data collected over a period, we can understand better how bread prices have evolved and what this might mean for consumers.
 
@@ -45,7 +45,7 @@ This study provides valuable insights into the pricing trends of bread at Waitro
 
 ## Acknowledgements
 
-I would like to thank Waitrose for providing access to their pricing data and the numerous bread lovers who contributed their insights and experiences to this analysis.
+I would like to thank Mert Tarim for being ....
 
 ---
 
