@@ -1,6 +1,6 @@
 # Project Top Movies
 
-Collect and track the prices of supermarket products over time
+Collect and track data on the top 300 movies of all-time according to Rotten Tomatoes
 
 ## Team
 
