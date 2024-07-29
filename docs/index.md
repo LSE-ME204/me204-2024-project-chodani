@@ -63,4 +63,4 @@ This assignment was completed with the assistance of ChatGPT.
 
 More specifically, I used it in the following way:
 
-- I had syntatical errors when I was trying to read the SQL tables I created and tried to merge htem into a single dataframe. ChatGPT corrected the syntax of my code for reading from the database.
+- I had syntatical errors when I was trying to read the SQL tables I created and tried to merge them into a single dataframe. ChatGPT corrected the syntax of my code for reading from the database.
