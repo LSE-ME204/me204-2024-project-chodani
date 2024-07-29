@@ -25,8 +25,10 @@ The data was collected from the Rotten Tomatoe top 300 movies list and within ea
 
 ![Fig. 2 -- Audience vs Critics Scores Across Genres](./figures/diff_mean_genre.png)
 
-- Insight one
-- Insight two
+- **Revenue and Audience Score**: There seems to be a positive relationship between a movie's revenue and audience score, and this makes sense, as better performing movies are a result of audience members appreciting them.
+- **Revenue and Critics Score**: The relationship between revenue and critics score is not quite obvious. This indicates that not only may critics score differ from the audience, but also that their opinions don't correlate with a movie's financial success.
+- **Audience Score vs Critics Score**: This plot confirms that critics and audience members don't necessarily have the same exact opinions on movies. 
+- **Difference in Mean Ratings Across Genres**: We see that across different genres, critics appreciate different types of movies more than the audience. Interestingly, musicals and horror films were overwhelmingly higher rated by critics. It's also not too surprising that critics favored these movies more across all genres as the list was compromised by the top 300 movies in the critics perspective.
 
 ### Other Trends
 
@@ -57,10 +59,12 @@ This study provides valuable insights into the pricing trends of bread at Waitro
 
 ## Acknowledgements
 
-I would like to thank Mert Tarim for being ....
+I would like to thank my teammate Mert Tarim for being an awesome teammate.
 
----
+## Generative AI Acknowledgement
 
-For more detailed analysis, data visualizations, and updates, please follow my GitHub page.
+This assignment was completed with the assistance of ChatGPT.
 
-Thank you for your interest in my bread price analysis at Waitrose Supermarket.
+More specifically, I usedd it in the following ways:
+
+- When I was trying to read from the SQL webpages I have created and trying to merge those pages in a single dataframe, I had some problems with the syntax. I have used ChatGPT to correct the syntax of my code for reading from the database.
