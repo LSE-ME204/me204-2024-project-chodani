@@ -56,11 +56,3 @@ This study provides insights into the review trends of the top movies within Rot
 ## Acknowledgements
 
 I would like to thank my teammate Mert Tarim for being an awesome teammate.
-
-## Generative AI Acknowledgement
-
-This assignment was completed with the assistance of ChatGPT.
-
-More specifically, I used it in the following way:
-
-- I had syntatical errors when I was trying to read the SQL tables I created and tried to merge them into a single dataframe. ChatGPT corrected the syntax of my code for reading from the database.

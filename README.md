@@ -27,3 +27,11 @@ pip install -r requirements.txt
 
 
 5. Go through each of the notebooks under the `notebooks/` folder, read and run then
+
+## Generative AI Acknowledgement
+
+This assignment was completed with the assistance of ChatGPT.
+
+More specifically, I used it in the following way:
+
+- I had syntatical errors when I was trying to read the SQL tables I created and tried to merge them into a single dataframe. ChatGPT corrected the syntax of my code for reading from the database.
