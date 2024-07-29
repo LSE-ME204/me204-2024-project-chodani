@@ -40,18 +40,18 @@ The data was collected from the Rotten Tomatoe top 300 movies list and within ea
 
 ![Fig. 8 -- Runtime Distribution Across Genres](./figures/runtime_distribution_genre.png)
 
-- **one**
-- **two**
-- **three**
-- **four**
+- **Rank and Revenue**: Better ranked movies don't correspond with higher revenues. This reaffirms that critics opinions don't match audience reception entirely.
+- **Rank and Runtime**: The runtime of movies and their ranks have no correlation. All English spoken movies were removed to observe trends of the foreign movies selected. There's no obvious pattern among different language in terms of success or runtime.
+- **Move Theater Release Date and Rank**: Critics do not prefer movies from any specific time period.
+- **Runtime Distribution Across Genres**: Movie genres seem to have distinctive runtime distriubtions. This can be possibly that movies within the same genre cover similar storylines which require certain screentimes. 
 
 ## Discussion
 
-The analysis reveals that bread prices at Waitrose are influenced by several factors, including the type of bread, production costs, and seasonal demand. Sourdough bread, being a premium product, commands the highest price, while staple items like white bread maintain a more stable and lower price point.
+The analysis reveals that movie critics and regular audience members have noticeably different opinions on movies. As the financial success of movies is mainly dependent on audience reception, it would be interesting to see how directors and production companies try to tailor to their interests and whether that would conflict with critics. The most distinctive differences among movies fall across genres, and the runtime, language, and release dates seem to have no strong affect on ratings.
 
 ## Conclusion
 
-This study provides valuable insights into the pricing trends of bread at Waitrose. Understanding these trends can help consumers make informed decisions and potentially lead to savings on their grocery bills. Future studies could expand on this analysis by comparing prices with other supermarkets to give consumers a broader perspective.
+This study provides insights into the review trends of the top movies within Rotten Tomatoes' ranking. Understanding these trends can help producers know what types of movies succeed and make the most money. I could further analyze this data set by looking into the age-ratings and maybe even technical aspects like the aspect ratios. Further studies could include the analysis of movie plots using summary descriptions. Overall, this analysis provides a foundation for which directions to further explore successful movies.
 
 ## Acknowledgements
 
@@ -61,6 +61,6 @@ I would like to thank my teammate Mert Tarim for being an awesome teammate.
 
 This assignment was completed with the assistance of ChatGPT.
 
-More specifically, I usedd it in the following ways:
+More specifically, I used it in the following way:
 
-- When I was trying to read from the SQL webpages I have created and trying to merge those pages in a single dataframe, I had some problems with the syntax. I have used ChatGPT to correct the syntax of my code for reading from the database.
+- I had syntatical erros when I was trying to read the SQL tables I created and tried to merge htem into a single dataframe. ChatGPT corrected the syntax of my code for reading from the database.
