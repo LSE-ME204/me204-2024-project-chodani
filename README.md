@@ -1,4 +1,4 @@
-# Project Supermarket
+# Project Top Movies
 
 Collect and track the prices of supermarket products over time
 
