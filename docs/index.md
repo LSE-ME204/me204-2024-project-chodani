@@ -1,22 +1,34 @@
 # Rotten Tomatoes Top 300 Movies Analysis
 
-Welcome to my analysis of bread prices at Waitrose Supermarket. This study aims to provide insights into the pricing trends, variations, and factors influencing the cost of bread at one of the UK's leading supermarkets. By examining the data collected over a period, we can understand better how bread prices have evolved and what this might mean for consumers.
+Welcome to my analysis of Rotten Tomatoes' top 300 movies of all time. This project was in collaboration with Mert Tarim, as we collected information on every movie's reception and general statistics. I used our data collection and manipulation to analyze the interplay of audience and critic reviews of these movies and sought insight into which variables might hint at a movie's success. 
 
 ## Introduction
 
-Bread is a staple food in many households, and its price can significantly impact the overall grocery budget. Waitrose, known for its quality products, offers a variety of bread types. This analysis seeks to explore the pricing structure of these bread types and identify any patterns or anomalies.
+As the movie industry makes a comeback from post-pandemic struggles in theaters, public interest in movies has increased. I also have recently been more interested in watching and analyzing movies, so I wanted to identify characteristics of successful movies using Rotten Tomatoes' general information on movies. This analysis explores how critics and audience see the top mvies and what can indicate their success.
 
 ## Methodology
 
-The data was collected from the Waitrose online store over six months, covering various types of bread, including white, wholemeal, sourdough, and gluten-free options. Prices were recorded weekly to capture any fluctuations. The analysis includes:
+The data was collected from the Rotten Tomatoe top 300 movies list and within each movie's individual pages. The information covered included movie title, rank, directors, speechwriters, revenue, ratings, and even more technical details. The analysis includes:
 
-- Price comparison among different types of bread
-- Price trends over the observed period
-- Impact of promotions and seasonal changes on prices
+- Critic vs Audience Scores
+- Trends over time, revenue, language
 
 ## Results
 
+### Critics vs Audience
+
 ![Fig. 1 -- Revenue vs Audience Score](./figures/revenue_audience.png)
+
+![Fig. 2 -- Revenue vs Critics Score](./figures/revenue_critics.png)
+
+![Fig. 3 -- Audience vs Critics Score](./figures/audience_critics.png)
+
+![Fig. 2 -- Audience vs Critics Scores Across Genres](./figures/diff_mean_genre.png)
+
+- Insight one
+- Insight two
+
+### Other Trends
 
 ### Price Comparison
 
